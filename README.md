@@ -10,7 +10,7 @@ This is an ISTQB Online Exam Web Project.
 
 ## JIRA PROJECT
 [JIRA SCRUM PROJECT](https://bootcampqareyes.atlassian.net/jira/software/projects/IOT/boards/5)
-This project is using JIRA tool for project management and defect traking following agile methodology SCRUM.
+This projsect is using JIRA tool for project management and defect traking following agile methodology SCRUM.
 
 
 ## TEST STRATEGY
