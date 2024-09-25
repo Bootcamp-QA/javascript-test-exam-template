@@ -10,24 +10,28 @@ body {
     font-family: Arial, sans-serif;
     background-color: #f0f9ff; /* Azul cielo claro */
     color: #333; /* Color de texto */
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; /* Asegura que el cuerpo ocupe al menos la altura completa de la ventana */
 }
 
 /* Estilo para el encabezado */
 #header {
     text-align: center;
-    padding: 20px;
+    padding: 2% 0; /* Padding superior e inferior en porcentaje */
     background-color: #87ceeb; /* Azul cielo */
     color: white;
 }
 
 /* Estilo para las secciones */
 section {
-    margin: 20px auto;
-    padding: 15px;
+    margin: 2% auto; /* Margen superior e inferior en porcentaje */
+    padding: 5%; /* Padding en porcentaje */
     border-radius: 8px;
     max-width: 400px;
     background-color: #e0f7fa; /* Verde agua */
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    flex-grow: 1; /* Permite que las secciones crezcan y ocupen el espacio disponible */
 }
 
 /* Estilo para los encabezados dentro de las secciones */
@@ -49,6 +53,7 @@ input {
     border: 1px solid #b2dfdb; /* Verde claro */
     border-radius: 4px;
     transition: border-color 0.3s ease;
+    width: 100%; /* Hace que el input ocupe todo el ancho disponible */
 }
 
 /* Cambio de color en el foco de los campos de entrada */
@@ -65,6 +70,7 @@ select {
     border-radius: 4px;
     background-color: white;
     transition: border-color 0.3s ease;
+    width: 100%; /* Hace que el select ocupe todo el ancho disponible */
 }
 
 /* Cambio de color en el foco de los elementos select */
@@ -88,6 +94,7 @@ button {
     border-radius: 4px;
     cursor: pointer;
     transition: background-color 0.3s ease;
+    width: 100%; /* Hace que el botón ocupe todo el ancho disponible */
 }
 
 /* Cambio de color en el hover del botón */
@@ -99,7 +106,9 @@ button:hover {
 footer {
     text-align: center;
     margin-top: 20px;
-    padding: 10px;
+    padding: 2% 0; /* Padding superior e inferior en porcentaje */
     background-color: #87ceeb; /* Azul cielo */
     color: white;
+    position: relative; /* Asegura que el footer esté correctamente posicionado */
+    bottom: 0; /* Mantiene el footer en la parte inferior */
 }
