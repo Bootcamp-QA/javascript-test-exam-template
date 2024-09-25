@@ -28,7 +28,7 @@ section {
     margin: 2% auto; /* Margen superior e inferior en porcentaje */
     padding: 5%; /* Padding en porcentaje */
     border-radius: 8px;
-    max-width: 400px;
+    width: 95%;
     background-color: #e0f7fa; /* Verde agua */
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
     flex-grow: 1; /* Permite que las secciones crezcan y ocupen el espacio disponible */
