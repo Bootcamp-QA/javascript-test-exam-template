@@ -19,7 +19,7 @@ This project adopts BDD Methodology for testing.
 
 2. Functional test scenarios are executed manually on both Desktop and Mobile platforms for each user story. Any encountered bugs are promptly logged on JIRA and linked to the respective user story and test scenario. Test results are documented using test Management Tool.
 
-3. Regression test scenarios are automated.
+3. Regression test scenarios are automated and running after each change.
 
 
 ### TEST RESULTS
