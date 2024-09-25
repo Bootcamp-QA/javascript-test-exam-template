@@ -1,6 +1,6 @@
-# ISTQB ONLINE TEST
+# ISTQB ONLINE EXAM
 This is an ISTQB Online Exam Web Project
-[ISTQB ONLINE TEST PROJECT](https://bootcamp-qa.github.io/istqb-online-test/)
+[ISTQB ONLINE EXAM](https://bootcamp-qa.github.io/online-exam-template/)
 
 ## BUILD WITH
 * ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
