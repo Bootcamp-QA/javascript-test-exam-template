@@ -1,5 +1,5 @@
 # ISTQB ONLINE EXAM
-This is an ISTQB Online Exam Web Project
+This is an ISTQB Online Exam web project where students can register and take multiple-choice tests. It automatically checks answers, displays scores, and ranks students based on their results.
 [ISTQB ONLINE EXAM](https://bootcamp-qa.github.io/online-exam-template/)
 
 ## BUILD WITH
@@ -9,7 +9,7 @@ This is an ISTQB Online Exam Web Project
 
 ## JIRA PROJECT
 [JIRA SCRUM PROJECT](https://bootcampqareyes.atlassian.net/jira/software/projects/IOT/boards/5)
-This projsect is using JIRA tool for project management and defect traking following agile methodology SCRUM.
+This project is using JIRA tool for project management and defect traking following agile methodology SCRUM.
 
 
 ## TEST STRATEGY
