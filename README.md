@@ -1,6 +1,6 @@
 # ISTQB ONLINE EXAM
 This is an ISTQB Online Exam web project where students can register and take multiple-choice tests. It automatically checks answers, displays scores, and ranks students based on their results.
-[ISTQB ONLINE EXAM]([https://bootcamp-qa.github.io/online-exam-template/](https://bootcamp-qa.github.io/javascript-test-exam-template/))
+https://bootcamp-qa.github.io/javascript-test-exam-template/
 
 ## BUILD WITH
 * ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
