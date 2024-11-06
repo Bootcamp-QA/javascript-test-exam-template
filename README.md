@@ -14,7 +14,7 @@ This project is using JIRA tool for project management and defect traking follow
 
 ## E2E TEST EXECUTION
 
-1. Regression test scenarios are automated using Cypress and Cucumber, and run after each change through continuous integration with GitHub Actions.
+1. Regression test scenarios are automated using Cypress and Cucumber, and run weekly through continuous integration with GitHub Actions.
 
 
 ## AUTHOR
